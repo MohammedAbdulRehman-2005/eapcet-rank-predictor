@@ -216,6 +216,7 @@ class EAPCETSyntheticGenerator:
             
             # 2024 Data (medium confidence - estimated from trends)
            # 2024 Data (medium confidence – derived)
+
             (2024, 160, 161, 1, 1, 1, 'medium', 'derived'),
             (2024, 159, 160, 2, 2, 1, 'medium', 'derived'),
             (2024, 158, 159, 3, 3, 1, 'medium', 'derived'),
